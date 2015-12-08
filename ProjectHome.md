@@ -1,0 +1,1 @@
+Openbookings.org is an web booking software that allows to manage in an unified way the timetables of all the shared resources of your group, association or company (vehicles, conference rooms, computers, video projectors, cameras, ...).
